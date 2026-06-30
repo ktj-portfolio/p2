@@ -1,0 +1,267 @@
+
+
+@font-face {
+    font-family: Summer;
+    src: url(../assets/font/Summer.otf);
+}
+
+.font {
+    font-family: Summer!important;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../assets/font/Montserrat.ttf);
+}
+
+@font-face {
+    font-family: Hero;
+    src: url(../assets/font/Hero.otf);
+}
+
+@font-face {
+    font-family: Halimun;
+    src: url(../assets/font/Halimun.ttf);
+}
+
+.mont {
+    font-family: Montserrat!important;
+    color: #143b52!important;
+}
+
+.mon {
+    font-family: Montserrat!important;
+}
+
+.hero {
+    font-family: Hero;
+}
+
+.hero1 {
+    font-family: Hero;
+    font-size: 1rem;
+}
+
+.hal {
+    font-family: Halimun;
+    -webkit-text-fill-color: #5ea1af;
+}
+.bold {
+    font-weight: bold;
+}
+
+.title {
+    -webkit-text-fill-color: #ddf2fa!important;
+    padding-top: 140px;
+}
+
+.size {
+    width: 400px;
+    padding-bottom: 40px;
+}
+
+.about {
+    font-size: 100px;
+}
+.bgcolor {
+    background-color: #ddf2fa!important;
+}
+
+.aboutc {
+    color: #ddf2fa!important;
+}
+
+.resproc {
+    color:#143b52!important;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.resproc1 {
+    color:#143b52!important;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+.pad {
+    padding-top: 0px!important;
+    padding-bottom: 70px!important;
+}
+
+.masthead {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 35rem;
+    padding: 15rem 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, .8) 75%, #000 100%), url("../assets/img/bg-masthead.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+
+}
+  .about-section {
+    padding-top: 3rem;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, .9) 75%, rgba(0, 0, 0, .8) 100%);
+}
+
+.signup-section {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 25%, rgba(0, 0, 0, 0) 100%), url("../assets/img/water.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.down {
+    margin-bottom: 25px!important;
+}
+
+.down1 {
+    margin-bottom: 60px!important;
+}
+
+.a2 {
+    color:white;
+    text-decoration: none;
+}
+
+.center {
+    align-items: center;
+}
+
+.atc {
+    color: #b4bfc2!important;
+    padding-right: 0px!important;
+}
+
+.size {
+    width: 400px!important;
+    height: auto!important;
+}
+
+.container {
+    padding-left: 10%!important;
+    padding-right: 10%!important;
+}
+
+.heror {
+    font-family: Hero;
+    color: #444444;
+    padding-left: 0!important;
+    margin-bottom: 0!important;
+}
+
+footer {
+    padding: 2%!important;
+}
+
+.foot {
+    padding-bottom: 7%!important;
+}
+
+.col {
+    color: #b4bfc2!important;
+}
+.conc {
+    color: #ddf2fa;
+}
+
+.hel {
+    color: #143b52!important;
+}
+
+.tab {
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+}
+
+.soc {
+    justify-content: space-around;
+}
+
+.soc1 {
+    justify-content: center;
+}
+
+.imagesize {
+    width: 180px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.hi {
+    text-decoration: none;
+}
+
+.hel:hover {
+    color:#5ea1af;
+}
+
+.text-black-50:hover {
+    color:#5ea1af;
+}
+.mx-2 {
+    margin-right: 1.5rem !important;
+    margin-left: 1.5rem !important;
+}
+
+.line {
+    float: left;
+    font-size: 23px;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+
+.lin {
+    margin-left: 5rem;
+}
+
+.cen
+ {
+    text-align: center;
+ }
+.container .line:hover {
+    color:#5ea1af;
+}
+
+#mainNav.navbar-shrink .nav-link.active {
+    color: #5ea1af;
+    outline: none;
+    border-bottom: 0.25rem solid #5ea1af;
+}
+
+.cb {
+    margin-top: 22px;
+}
+
+.h {
+    height: 2rem;
+}
+
+.imgsize {
+    width: 480px;
+    height: auto;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.k {
+    height: 1.2rem;
+    vertical-align: middle;
+}
+
+.line:hover {
+    color:#5ea1af;
+}
+
+.hj .mont .nav-link:active {
+    color:#5ea1af;
+}
+
+.mb-31 {
+    margin-bottom: 3rem !important;
+    margin-top: 3rem !important;
+}
